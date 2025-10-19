@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makss\\Desktop\\Repozytorium\\C#\\Hello World! (getting started with C#)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8952D19-007B-48BB-A996-9211837F5FA9}|Hello World! (getting started with C#)\\Hello World! (getting started with C#).csproj|c:\\users\\makss\\desktop\\repozytorium\\c#\\hello world! (getting started with c#)\\hello world! (getting started with c#)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8952D19-007B-48BB-A996-9211837F5FA9}|Hello World! (getting started with C#)\\Hello World! (getting started with C#).csproj|solutionrelative:hello world! (getting started with c#)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\makss\\Desktop\\Repozytorium\\C#\\Hello World! (getting started with C#)\\Hello World! (getting started with C#)\\Program.cs",
+              "RelativeDocumentMoniker": "Hello World! (getting started with C#)\\Program.cs",
+              "ToolTip": "C:\\Users\\makss\\Desktop\\Repozytorium\\C#\\Hello World! (getting started with C#)\\Hello World! (getting started with C#)\\Program.cs",
+              "RelativeToolTip": "Hello World! (getting started with C#)\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwGAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:02:25.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
